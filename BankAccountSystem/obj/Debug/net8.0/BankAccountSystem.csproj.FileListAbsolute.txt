@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.exe
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.deps.json
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.runtimeconfig.json
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.dll
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\bin\Debug\net8.0\BankAccountSystem.pdb
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.AssemblyInfo.cs
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.dll
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\obj\Debug\net8.0\refint\BankAccountSystem.dll
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.pdb
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\obj\Debug\net8.0\BankAccountSystem.genruntimeconfig.cache
+C:\Users\admin\Desktop\Project\job tới\BankAccountSystem\obj\Debug\net8.0\ref\BankAccountSystem.dll
